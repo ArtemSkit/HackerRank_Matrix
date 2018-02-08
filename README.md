@@ -4,7 +4,7 @@ You are given a 2D matrix, a, of dimension MxN and a positive integer R. You hav
 
 Rotation of a 4x5 matrix is represented by the following figure. Note that in one rotation, you have to shift elements by one step only (refer sample tests for more clarity).
 
-![matrix-rotation](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![matrix-rotation](https://hr-challenge-images.s3.amazonaws.com/2517/matrix-rotation.png "Logo Title Text 1")
 matrix-rotation
 
 It is guaranteed that the minimum of M and N will be even.
