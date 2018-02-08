@@ -12,7 +12,7 @@ Input Format
 First line contains three space separated integers, M, N and R, where M is the number of rows, N is number of columns in matrix, and R is the number of times the matrix has to be rotated. 
 Then M lines follow, where each line contains N space separated positive integers. These M lines represent the matrix.
 
-Constraints 
+**Constraints**  
 2 <= M, N <= 300   
 1 <= R <= 109   
 min(M, N) % 2 == 0   
