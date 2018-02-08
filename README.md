@@ -13,27 +13,27 @@ First line contains three space separated integers, M, N and R, where M is the n
 Then M lines follow, where each line contains N space separated positive integers. These M lines represent the matrix.
 
 Constraints 
-2 <= M, N <= 300 
-1 <= R <= 109 
-min(M, N) % 2 == 0 
-1 <= aij <= 108, where i ∈ [1..M] & j ∈ [1..N]
+2 <= M, N <= 300   
+1 <= R <= 109   
+min(M, N) % 2 == 0   
+1 <= aij <= 108, where i ∈ [1..M] & j ∈ [1..N]  
 
-Output Format 
-Print the rotated matrix.
+Output Format   
+Print the rotated matrix.  
 
-Sample Input #00
-
-4 4 1
-1 2 3 4
-5 6 7 8
-9 10 11 12
-13 14 15 16
-Sample Output #00
-
-2 3 4 8
-1 7 11 12
-5 6 10 16
-9 13 14 15
+Sample Input #00  
+  
+4 4 1  
+1 2 3 4  
+5 6 7 8  
+9 10 11 12  
+13 14 15 16  
+Sample Output #00  
+  
+2 3 4 8  
+1 7 11 12  
+5 6 10 16  
+9 13 14 15  
 Sample Input #01
 
 4 4 2
